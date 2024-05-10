@@ -1,0 +1,124 @@
+[
+	//Unique choices
+	{
+        	"name": "UP 1",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 2",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 3",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 4",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 5",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 6",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 7",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 8",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 9",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 10",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 11",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 12",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 13",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 14",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+        	"name": "UP 15",
+       		"uniques": ["Comment [Shh]"]
+	},
+	{
+		"name": "Knightly Order",
+		"uniques": ["Religious Unit", "Can Spread Religion <for [2] movement> <once>"]
+	},
+    	{
+        	"name": "Unexpected",
+        	"uniques": ["Can remove other religions from cities <in [Friendly] tiles> <[1] additional time(s)>"]
+    	},
+	{
+		"name": "Royal Mission",
+		"uniques": ["Can Spread Religion <[2] additional time(s)>"]
+	},
+	{
+		"name": "Ignore Zone of Control",
+		"uniques": ["Ignores Zone of Control"]
+	}
+	{
+		"name": "Homeland Defenders",
+		"uniques": ["[+20]% Strength <when attacking> <in [your] tiles>"]
+	},
+	{
+		"name": "Guerilla",
+		"uniques": ["[+50]% Strength <when attacking> <when above [99] HP>","Invisible to non-adjacent units"],
+		"unitTypes": ["Scout"],
+		"prerequisites": ["Survivalism III","Scouting III"],
+	},
+	{
+		"name": "Poor Training",
+		"uniques": ["[-50]% XP gained from combat","[-10]% Strength <when attacking>"]
+	}
+	{
+		"name": "Attack Block",
+		"uniques": ["Cannot attack","Unable to capture cities"]
+	}
+	{
+		"name": "Naval Domination",
+		"uniques": ["[+15]% Strength <in [Ocean] tiles>"]
+	},
+
+	//Terrains
+	
+	{
+		"name": "Desert Affinity",
+		"uniques": ["Comment [This unit gains immunity to quicksand damage]"]
+	}
+	{
+		"name": "Quicksand Counter II",
+		"uniques": [
+			"Comment [This unit will die instantly if it ends two more consecutive turns in quicksand]",
+			"This Unit gains the [Quicksand Counter I] promotion <upon ending a turn in a [Quicksand] tile> <for units without [Desert Affinity> <hidden from users>", 
+			"This Unit loses the [Quicksand Counter II] promotion <upon ending a turn in a [non-[Quicksand]] tile> <hidden from users>",
+		]
+	}
+	{
+		"name": "Quicksand Counter I",
+		"uniques": [
+			"Comment [This unit will die instantly if it ends one more consecutive turn in quicksand]",
+			"This Unit takes [100] damage <upon ending a turn in a [Quicksand] tile> <for units without [Desert Affinity]> <hidden from users>",
+			"This Unit loses the [Quicksand Counter I] promotion <upon ending a turn in a [non-[Quicksand]] tile> <hidden from users>"
+		]
+	}
+]
