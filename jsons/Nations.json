@@ -9,11 +9,10 @@
 
 	{
 		//nations default
-		"name": "UCCM",//Union of Collegiate Capitalist Monarchies
-		"leaderName": "Nebuchadnezzar II",
-		"adjective": ["Babylonian"],
-		"startBias": ["Avoid [Tundra]"],
-		"preferredVictoryType": "Scientific",
+		"name": "UCCM", //short for Union of Collegiate Capitalist Monarchies
+		"leaderName": "Tribe Leader",
+		"adjective": ["Unionists"],
+		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -30,7 +29,34 @@
 
 		"outerColor": [0, 152, 181],
 		"innerColor": [255, 255, 255],
-		"favoredReligion": "Islam",
+		"favoredReligion": "Christianity",
+		"uniqueName": "No Unique yet",
+		"uniques": ["Comment [to be continued]"],
+		"cities": ["Custom City Name","Custom City Name2","Custom City Name3"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+	{
+		"name": "Mkali Tribe",
+		"leaderName": "Tribe Leader",
+		"adjective": ["Mkalian"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [0, 152, 181],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
 		"uniqueName": "No Unique yet",
 		"uniques": ["Comment [to be continued]"],
 		"cities": ["Custom City Name","Custom City Name2","Custom City Name3"],
