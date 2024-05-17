@@ -239,6 +239,9 @@
 		"promotions": ["[Cannibal] ability"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
+        	"civilopediaText": [
+			{"text": "Eats your basic, club-swinging fighters for breakfast and is still hungry afterwards"}
+		]
 	},
 	{
 		"name": "Slave",
@@ -248,8 +251,25 @@
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 70,
-        "civilopediaText": [
+        	"civilopediaText": [
 			{"text": "They're just lovely"}
+		]
+	},
+	{
+		"name": "Javelin Thrower",
+		"unitType": "Archery",
+		"uniqueTo": "Mkali Tribe",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow",
+        	"civilopediaText": [
+			{"text": "Likes eating Kebab, especially self made ones. Likes to hunt men and deer alike"}
 		]
 	},
 	
