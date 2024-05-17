@@ -116,45 +116,46 @@
 		"cities": ["Custom City Name","Custom City Name2","Custom City Name3"],
         "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
 	},
-{
-"name": "Russian Republic",
-"leaderName": "Doomstar",//unknown ruler
-"adjective": ["Russian"],
-
-"startIntroPart1": "startIntroPart1",
-
-"declaringWar": "Sorry, but we decided that you better to be conquered.",
-"attacked": "We thought you are better...",
-"defeated": "...",
-"introduction": "Hello. We do not want to touch you, so please do not touch us.",
-
-"neutralHello": "defneuhello",
-"hateHello": "defhatehelo",
-
-"tradeRequest": "default trade request?",
-
-"outerColor": [0,0,0],
-"innerColor": [255,0,0],
-
-"uniqueName": "Science Rush",
-"uniques": [
-    	"[-50]% Production when constructing [Military] units [in all cities]",
-   	"[Gold] cost of purchasing [Military] units [+100]%",
-   	"[Faith] cost of purchasing [Military] units [+100]%",
-	"[+100]% [Science] <before the [Industrial era]>",
-	"[+20]% [Science] <starting from the [Industrial era]>",
-	"[-25]% [Gold] <before the [Industrial era]>",
-	"[-20]% [Culture]",
-	"[-30]% [Food] <before the [Industrial era]>",
-	"[-15]% [Food] <starting from the [Industrial era]>",
-	"Nullifies [Faith] [{non-[in annexed cities]} {non-[in puppeted cities]}]"
-    ], 
-    "cities": ["Moscow", "Leningrad", "Novgorod", "Stalingrad", "Other russian cities"]
-}
 	{
-		"name": "Mkali Tribe",
-		"leaderName": "KoKo",
-		"adjective": ["Mkalian"],
+		"name": "Russian Republic",
+		"leaderName": "Doomstar",//unknown ruler
+		"adjective": ["Russian"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "startIntroPart1",
+
+		"declaringWar": "Sorry, but we decided that you better to be conquered.",
+		"attacked": "We thought you are better...",
+		"defeated": "...",
+		"introduction": "Hello. We do not want to touch you, so please do not touch us.",
+
+		"neutralHello": "defneuhello",
+		"hateHello": "defhatehelo",
+
+		"tradeRequest": "default trade request?",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,0,0],
+
+		"uniqueName": "Science Rush",
+		"uniques": [
+   		 	"[-50]% Production when constructing [Military] units [in all cities]",
+  		 	"[Gold] cost of purchasing [Military] units [+100]%",
+   			"[Faith] cost of purchasing [Military] units [+100]%",
+			"[+100]% [Science] <before the [Industrial era]>",
+			"[+20]% [Science] <starting from the [Industrial era]>",
+			"[-25]% [Gold] <before the [Industrial era]>",
+			"[-20]% [Culture]",
+			"[-30]% [Food] <before the [Industrial era]>",
+			"[-15]% [Food] <starting from the [Industrial era]>",
+			"Nullifies [Faith] [{non-[in annexed cities]} {non-[in puppeted cities]}]"
+   		 ], 
+    		"cities": ["Moscow", "Leningrad", "Novgorod", "Stalingrad", "Other russian cities"]
+	},
+	{
+		"name": "Air Nomad Tribe",
+		"leaderName": "Elder Gyatso",
+		"adjective": ["Nomad"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
@@ -179,9 +180,9 @@
         "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
 	},
 	{
-		"name": "Mkali Tribe",
-		"leaderName": "KoKo",
-		"adjective": ["Mkalian"],
+		"name": "The Clan of Graðungrs",
+		"leaderName": "Gandalf and Knut",
+		"adjective": ["Norse"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
@@ -199,6 +200,63 @@
 
 		"outerColor": [0, 152, 181],
 		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "No Unique yet",
+		"uniques": ["Comment [to be continued]"],
+		"cities": ["Custom City Name","Custom City Name2","Custom City Name3"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+	{
+		"name": "China",
+		"leaderName": "Li Wei",
+		"adjective": ["Chinese"],
+		"preferredVictoryType": "Scientific",
+
+       		"startIntroPart1": "Heaven itself bends before your beauty, Empress Wu Zetian, ruler of eternal China! You lead one of the oldest and greatest civilization of humanity. In your time, China stood at the forefront of science and technology, bringing the world such contributions as gunpowder, the printing press, and the world of Confucius, and this, long before the rest of the world was mature enough to make the same discoveries!",
+        	"startIntroPart2": "Great Queen, can you make China prevail again, using your divine intelligence and beauty? China stands for greatness, and all its enemies will be dazzled soon enough! Will your new empire shine through the ages of history?",
+
+        	"declaringWar": "You won't ever be able to bother me again. Go meet Yama.",
+		"attacked": "Fool! I will disembowel you all!",
+		"defeated": "You have proven to be a cunning and competent adversary. I congratulate you on your victory.",
+		"introduction": "Greetings, I am Empress Wu Zetian. China desires peace and development. You leave us alone, we'll leave you alone.",
+		"neutralHello": "How are you today?",
+		"hateHello": "Oh. It's you?",
+		"tradeRequest": "My friend, do you think you can accept this request?",
+
+        	"outerColor": [9, 112, 84],
+        	"innerColor": [255,255,255],
+
+		"favoredReligion": "Taoism",
+		"uniqueName": "No Unique yet",
+		"uniques": ["Comment [to be continued]"],
+		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
+			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
+			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
+			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
+
+	},
+	{
+		"name": "Autistica",
+		"leaderName": "Admiral פולשים",
+		"adjective": ["Autistican"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
 		"favoredReligion": "Christianity",
 		"uniqueName": "No Unique yet",
 		"uniques": ["Comment [to be continued]"],
