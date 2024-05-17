@@ -102,6 +102,10 @@
 		"name": "King's Patronage",
 		"uniques": ["[+1] Sight"]
 	},
+	{
+		"name": "Berserk",
+		"uniques": ["Damage is ignored when determining unit Strength","No movement cost to pillage"]
+	},
 	//Abilities
 	{
 		"name": "[Cannibal] ability",
