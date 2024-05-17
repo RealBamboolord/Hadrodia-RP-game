@@ -244,6 +244,23 @@
 		]
 	},
 	{
+		"name": "Norse Axeman",
+		"unitType": "Sword",
+		"uniqueTo": "The Clan of Graðungrs",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities","[+40]% Strength <when attacking>","[-25]% Strength <when defending>"],
+		"promotions": ["Berserk"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+        	"civilopediaText": [
+			{"text": "A norse man with an axe, name a more iconic duo"}
+		]
+	},
+	{
 		"name": "Slave",
 		"unitType": "Civilian",
 		"uniqueTo": "Mkali Tribe",
