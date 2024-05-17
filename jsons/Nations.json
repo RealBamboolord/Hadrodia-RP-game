@@ -153,7 +153,7 @@
     		"cities": ["Moscow", "Leningrad", "Novgorod", "Stalingrad", "Other russian cities"]
 	},
 	{
-		"name": "Air Nomad Tribe",
+		"name": "The Gliding Tribe",
 		"leaderName": "Elder Gyatso",
 		"adjective": ["Nomad"],
 		"preferredVictoryType": "Domination",
