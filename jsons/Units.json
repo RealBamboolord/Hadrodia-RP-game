@@ -225,6 +225,34 @@
 		"attackSound": "bombing"
 	},
 	
+	//Initial UUs
+	{
+		"name": "Cannibal",
+		"unitType": "Sword",
+		"uniqueTo": "Mkali Tribe",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"uniques": ["[+25]% Strength <vs [Barbarian] units>",],
+		"promotions": ["[Cannibal] ability"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Slave",
+		"unitType": "Civilian",
+		"uniqueTo": "Mkali Tribe",
+		"replaces": "Worker",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 70,
+        "civilopediaText": [
+			{"text": "They're just lovely"}
+		]
+	},
+	
 	//Unique choices
 	{
 		"name": "UU 1",
