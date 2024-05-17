@@ -288,6 +288,15 @@
 		"promotions": ["King's Patronage"],
 		"attackSound": "arrow"
 	},
+	{
+		"name": "Sky Bison Team",
+		"unitType": "Civilian",
+		"uniqueTo": "Air Nomad Tribe",
+		"replaces": "Worker",
+		"movement": 2,
+		"uniques": ["May travel on Water tiles without embarking","Can pass through impassable tiles","Can build [Land] improvements on tiles","Can instantly construct a [Fishing Boats] improvement <for all movement> <[2] times>","Automation is a primary action"],
+		"cost": 70
+	},
 	
 	//Unique choices
 	{
