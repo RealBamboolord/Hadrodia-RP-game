@@ -1,4 +1,21 @@
 [
+	//Initial Uniques
+	{
+		"name": "Darkian Fortress",
+		"isNationalWonder": true,
+		"uniqueTo": "Darkian Empire",
+		"replaces": "Palace",
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 4,
+		"cityHealth": 50,
+		"specialistSlots": {"Artist": 1},
+		"cost": 1,
+		"uniques": ["Indicates the capital city","New [Military] units start with [10] Experience [in this city]","Comment [Adds more city strength every time a new method of military defense is unlocked (Masonry, Engineering, Chivalry, ...)]"]
+	},
+	
 	//Unique choices
 	{
 		"name": "UB 1", //rename to: 
