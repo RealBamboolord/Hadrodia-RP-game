@@ -15,6 +15,17 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city","New [Military] units start with [10] Experience [in this city]","Comment [Adds more city strength every time a new method of military defense is unlocked (Masonry, Engineering, Chivalry, ...)]"]
 	},
+	{
+		"name": "Great Dockyard",
+		"uniqueTo": "Venoa",
+		"replaces": "Lighthouse",
+		"cost": 75,
+		"hurryCostModifier": 25,
+		"production": 1,
+		"uniques": ["Must be next to [Coast]", "[Gold] cost of purchasing [All] buildings [-15]% <in this city>", "[Gold] cost of purchasing [All] units [-15]% <in this city>", "[+1 Food] from [Ocean] tiles [in this city]",
+			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]", "Connects trade routes over water",],
+		"requiredTech": "Optics"
+	},
 	
 	//Unique choices
 	{
