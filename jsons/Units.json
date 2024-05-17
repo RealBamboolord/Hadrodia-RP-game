@@ -291,7 +291,7 @@
 	{
 		"name": "Sky Bison Team",
 		"unitType": "Civilian",
-		"uniqueTo": "Air Nomad Tribe",
+		"uniqueTo": "The Gliding Tribe",
 		"replaces": "Worker",
 		"movement": 2,
 		"uniques": ["May travel on Water tiles without embarking","Can pass through impassable tiles","Can build [Land] improvements on tiles","Can instantly construct a [Fishing Boats] improvement <for all movement> <[2] times>","Automation is a primary action"],
