@@ -98,6 +98,11 @@
 		"name": "Naval Domination",
 		"uniques": ["[+15]% Strength <in [Ocean] tiles>"]
 	},
+	//Abilities
+	{
+		"name": "[Cannibal] ability",
+		"uniques": ["Heals [25] damage if it kills a unit"]
+	},
 
 	//Terrains
 	
