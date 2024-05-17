@@ -10,7 +10,7 @@
 	{
 		//nations default
 		"name": "UCCM", //short for Union of Collegiate Capitalist Monarchies
-		"leaderName": "Tribe Leader",
+		"leaderName": "Levi",
 		"adjective": ["Unionists"],
 		"preferredVictoryType": "Domination",
 
@@ -37,7 +37,150 @@
 	},
 	{
 		"name": "Mkali Tribe",
-		"leaderName": "Tribe Leader",
+		"leaderName": "KoKo",
+		"adjective": ["Mkalian"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [0, 152, 181],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "No Unique yet",
+		"uniques": ["Comment [to be continued]"],
+		"cities": ["Custom City Name","Custom City Name2","Custom City Name3"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+	{
+		"name": "Darkian Empire",
+		"leaderName": "Darko",
+		"adjective": ["Darkian"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [0, 152, 181],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "No Unique yet",
+		"uniques": ["Comment [to be continued]"],
+		"cities": ["Darko City","Custom City Name","Custom City Name2","Custom City Name3"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+	{
+		"name": "Venoa",
+		"leaderName": "FastDoubloon",
+		"adjective": ["Venoan"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [0, 152, 181],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "No Unique yet",
+		"uniques": ["Comment [to be continued]"],
+		"cities": ["Custom City Name","Custom City Name2","Custom City Name3"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+{
+"name": "Russian Republic",
+"leaderName": "Doomstar",//unknown ruler
+"adjective": ["Russian"],
+
+"startIntroPart1": "startIntroPart1",
+
+"declaringWar": "Sorry, but we decided that you better to be conquered.",
+"attacked": "We thought you are better...",
+"defeated": "...",
+"introduction": "Hello. We do not want to touch you, so please do not touch us.",
+
+"neutralHello": "defneuhello",
+"hateHello": "defhatehelo",
+
+"tradeRequest": "default trade request?",
+
+"outerColor": [0,0,0],
+"innerColor": [255,0,0],
+
+"uniqueName": "Science Rush",
+"uniques": [
+    	"[-50]% Production when constructing [Military] units [in all cities]",
+   	"[Gold] cost of purchasing [Military] units [+100]%",
+   	"[Faith] cost of purchasing [Military] units [+100]%",
+	"[+100]% [Science] <before the [Industrial era]>",
+	"[+20]% [Science] <starting from the [Industrial era]>",
+	"[-25]% [Gold] <before the [Industrial era]>",
+	"[-20]% [Culture]",
+	"[-30]% [Food] <before the [Industrial era]>",
+	"[-15]% [Food] <starting from the [Industrial era]>",
+	"Nullifies [Faith] [{non-[in annexed cities]} {non-[in puppeted cities]}]"
+    ], 
+    "cities": ["Moscow", "Leningrad", "Novgorod", "Stalingrad", "Other russian cities"]
+}
+	{
+		"name": "Mkali Tribe",
+		"leaderName": "KoKo",
+		"adjective": ["Mkalian"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [0, 152, 181],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "No Unique yet",
+		"uniques": ["Comment [to be continued]"],
+		"cities": ["Custom City Name","Custom City Name2","Custom City Name3"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+	{
+		"name": "Mkali Tribe",
+		"leaderName": "KoKo",
 		"adjective": ["Mkalian"],
 		"preferredVictoryType": "Domination",
 
