@@ -272,6 +272,22 @@
 			{"text": "Likes eating Kebab, especially self made ones. Likes to hunt men and deer alike"}
 		]
 	},
+	{
+		"name": "King's Archer",
+		"unitType": "Archery",
+		"uniqueTo": "UCCM",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 5,
+		"cost": 52,
+		"uniques": ["[+1] Range"],
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"promotions": ["King's Patronage"],
+		"attackSound": "arrow"
+	},
 	
 	//Unique choices
 	{
