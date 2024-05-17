@@ -98,6 +98,10 @@
 		"name": "Naval Domination",
 		"uniques": ["[+15]% Strength <in [Ocean] tiles>"]
 	},
+	{
+		"name": "King's Patronage",
+		"uniques": ["[+1] Sight"]
+	},
 	//Abilities
 	{
 		"name": "[Cannibal] ability",
