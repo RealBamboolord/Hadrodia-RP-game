@@ -26,6 +26,20 @@
 			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]", "Connects trade routes over water",],
 		"requiredTech": "Optics"
 	},
+	{
+		"name": "Crash Site",
+		"isNationalWonder": true,
+		"uniqueTo": "Autistica",
+		"replaces": "Palace",
+		"production": 3,
+		"science": 4,
+		"gold": 2,
+		"culture": 1,
+		"cityStrength": 4,
+		"faith": 1,
+		"cost": 1,
+		"uniques": ["Indicates the capital city", "[+15]% Strength for cities <in [Capital] cities> <when attacking>"]
+	},
 	
 	//Unique choices
 	{
