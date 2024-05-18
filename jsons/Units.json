@@ -235,7 +235,7 @@
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
-		"uniques": ["[+25]% Strength <vs [Barbarian] units>",],
+		"uniques": ["[+25]% Strength <vs [Barbarian] units>"],
 		"promotions": ["[Cannibal] ability"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
