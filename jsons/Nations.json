@@ -64,22 +64,22 @@
 	},
 	{
 		"name": "Darkian Empire",
-		"leaderName": "Darko",
+		"leaderName": "Emperor Jardan",
 		"adjective": ["Darkian"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
+		"declaringWar": "Greetings. It's time to put you in your place. Prepare the white flag, you will need it.",
+		"attacked": "Fine, then we will destroy your insignificant civilization.",
 		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"introduction": "Greetings, we are the Darkians, a once weak and divided people who have been unified by our glorious Emperor, to whom we swear eternal loyalty. We are fair to our allies, but our enemies always meet a dire destiny.",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"neutralHello": "Welcome, stranger. What do you want?",
+		"hateHello": "What do you want, enemy?",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Greetings. In our great generosity, we offer this to you.",
 
 		"outerColor": [0, 2, 1],
 		"innerColor": [173, 30, 14],
