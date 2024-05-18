@@ -636,7 +636,8 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"promotions": ["Will not be displayed in Civilopedia","[Chu-Ko-Nu] ability"],
+		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"],
+		"promotions": ["[Chu-Ko-Nu] ability"],
 		"attackSound": "crossbow"
 	},
 ]
