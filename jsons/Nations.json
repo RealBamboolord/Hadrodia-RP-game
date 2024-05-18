@@ -54,7 +54,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [0, 152, 181],
+		"outerColor": [0, 2, 1],
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "No Unique yet",
@@ -81,8 +81,8 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [0, 152, 181],
-		"innerColor": [255, 255, 255],
+		"outerColor": [0, 2, 1],
+		"innerColor": [173, 30, 14],
 		"favoredReligion": "Christianity",
 		"uniqueName": "No Unique yet",
 		"uniques": ["Comment [to be continued]"],
@@ -98,18 +98,19 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
+		"declaringWar": "Hello, sorry my friend, no hatred, you were just too much of a threat; please do not resist, this way your losses will be limited.",
+		"attacked": "Do you really think that your actions will go unpunished? That I'll bend at your knees? You fool, you'll learn that money can indeed buy victory.",
+		"afterPeace": "Oh, you are here; did you learn it the hard way? Or do I have to keep going?",
 		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"introduction": "Greetings lord of far away lands, I'm honored to be in your presence, I hope that we'll be able to trade and develop together.",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"neutralHello": "Greetings my friend; remember, I'm always eager to trade.",
+		"hateHello": "",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Greetings my great friend, do you want to trade? I hope that you'll see the offer as balanced and fair.",
 
-		"outerColor": [0, 152, 181],
-		"innerColor": [255, 255, 255],
+		"outerColor": [52, 30, 4],
+		"innerColor": [229, 181, 25],
 		"favoredReligion": "Christianity",
 		"uniqueName": "No Unique yet",
 		"uniques": ["Comment [to be continued]"],
@@ -134,8 +135,8 @@
 
 		"tradeRequest": "default trade request?",
 
-		"outerColor": [0,0,0],
-		"innerColor": [255,0,0],
+		"outerColor": [49, 20, 17],
+		"innerColor": [222, 39, 19],
 
 		"uniqueName": "Science Rush",
 		"uniques": [
@@ -171,8 +172,8 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [0, 152, 181],
-		"innerColor": [255, 255, 255],
+		"outerColor": [241, 219, 178],
+		"innerColor": [60, 100, 160],
 		"favoredReligion": "Christianity",
 		"uniqueName": "No Unique yet",
 		"uniques": ["Comment [to be continued]"],
@@ -198,8 +199,8 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [0, 152, 181],
-		"innerColor": [255, 255, 255],
+		"outerColor": [11, 21, 52],
+		"innerColor": [229, 162, 38],
 		"favoredReligion": "Christianity",
 		"uniqueName": "No Unique yet",
 		"uniques": ["Comment [to be continued]"],
