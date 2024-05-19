@@ -1,188 +1,418 @@
 
 game.png
-size: 1024, 1024
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Campfire
+  rotate: false
+  xy: 780, 4
+  size: 613, 613
+  orig: 613, 613
+  offset: 0, 0
+  index: -1
+BuildingIcons/Food Transport
+  rotate: false
+  xy: 1401, 12
+  size: 605, 605
+  orig: 605, 605
+  offset: 0, 0
+  index: -1
 LeaderIcons/Inca Arepa
   rotate: false
-  xy: 4, 244
+  xy: 4, 305
   size: 768, 768
   orig: 768, 768
   offset: 0, 0
   index: -1
+NationIcons/Venoa
+  rotate: false
+  xy: 4, 1081
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+UnitIcons/Cannibal
+  rotate: false
+  xy: 812, 625
+  size: 615, 615
+  orig: 615, 615
+  offset: 0, 0
+  index: -1
+UnitIcons/Javelin Thrower
+  rotate: false
+  xy: 1435, 636
+  size: 604, 604
+  orig: 604, 604
+  offset: 0, 0
+  index: -1
+UnitIcons/King's Archer
+  rotate: false
+  xy: 812, 1248
+  size: 633, 633
+  orig: 633, 633
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Crash Site
+  rotate: false
+  xy: 1833, 999
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Darkian Fortress
+  rotate: false
+  xy: 418, 26
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Great Dockyard
+  rotate: false
+  xy: 1217, 1001
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+NationIcons/Autistica
+  rotate: false
+  xy: 1725, 1107
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/China
+  rotate: false
+  xy: 1833, 1107
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Darkian Empire
+  rotate: false
+  xy: 4, 76
+  size: 406, 150
+  orig: 406, 150
+  offset: 0, 0
+  index: -1
+NationIcons/Mkali Tribe
+  rotate: false
+  xy: 720, 739
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Russian Republic
+  rotate: false
+  xy: 936, 739
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Clan of Graðungrs
+  rotate: false
+  xy: 606, 631
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Gliding Tribe
+  rotate: false
+  xy: 4, 836
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+NationIcons/UCCM
+  rotate: false
+  xy: 612, 847
+  size: 592, 592
+  orig: 592, 592
+  offset: 0, 0
+  index: -1
 ReligionIcons/Oonotavism
   rotate: false
-  xy: 780, 744
+  xy: 1152, 789
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 ReligionIcons/Pachamama
   rotate: false
-  xy: 4, 136
+  xy: 828, 739
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Dragon Peak
   rotate: false
-  xy: 112, 136
+  xy: 786, 695
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Geothermal Plains
   rotate: false
-  xy: 76, 100
+  xy: 606, 419
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grand MesaM
   rotate: false
-  xy: 256, 208
+  xy: 1628, 824
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Highlands
   rotate: false
-  xy: 852, 829
+  xy: 148, 30
   size: 32, 38
   orig: 32, 38
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Magma Ravine
   rotate: false
-  xy: 924, 920
+  xy: 1971, 1884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mangrove Forest
   rotate: false
-  xy: 780, 707
+  xy: 714, 561
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mesa Desert
   rotate: false
-  xy: 152, 144
+  xy: 1152, 753
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mesa DesertHill
   rotate: false
-  xy: 76, 64
+  xy: 786, 659
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mount Dragonjaw
   rotate: false
-  xy: 924, 876
+  xy: 826, 695
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Quicksand
   rotate: false
-  xy: 296, 208
+  xy: 606, 383
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Quicksand2
   rotate: false
-  xy: 780, 671
+  xy: 188, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Quicksand3
   rotate: false
-  xy: 192, 144
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Rocky Waters
-  rotate: false
-  xy: 76, 28
+  xy: 188, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Dragon Peak
   rotate: false
-  xy: 780, 956
+  xy: 4, 12
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Highlands
   rotate: false
-  xy: 4, 72
+  xy: 1628, 937
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Highlands2
   rotate: false
-  xy: 112, 180
+  xy: 1971, 1988
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/HillM
   rotate: false
-  xy: 780, 879
+  xy: 1933, 1238
   size: 64, 69
   orig: 64, 69
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/HillM2
   rotate: false
-  xy: 852, 943
+  xy: 714, 662
   size: 64, 69
   orig: 64, 69
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mangrove Forest
   rotate: false
-  xy: 4, 4
+  xy: 606, 455
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mesa Desert
   rotate: false
-  xy: 780, 802
+  xy: 1628, 860
   size: 64, 69
   orig: 64, 69
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mount Dragonjaw
   rotate: false
-  xy: 184, 180
+  xy: 76, 12
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Rocky Waters
   rotate: false
-  xy: 852, 875
+  xy: 1971, 1920
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Volcano
   rotate: false
-  xy: 924, 956
+  xy: 714, 598
   size: 64, 56
   orig: 64, 56
+  offset: 0, 0
+  index: -1
+UnitIcons/Archer Galley
+  rotate: false
+  xy: 1760, 1631
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Catapult Galleass
+  rotate: false
+  xy: 1725, 999
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Catapult Galley
+  rotate: false
+  xy: 1212, 793
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Cog
+  rotate: false
+  xy: 1420, 793
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Transport Cog
+  rotate: false
+  xy: 1420, 793
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Explorer
+  rotate: false
+  xy: 1933, 1315
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Fire Ship
+  rotate: false
+  xy: 4, 234
+  size: 594, 594
+  orig: 594, 594
+  offset: 0, 0
+  index: -1
+UnitIcons/Galley
+  rotate: false
+  xy: 612, 739
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hellburner
+  rotate: false
+  xy: 1217, 1509
+  size: 535, 535
+  orig: 535, 535
+  offset: 0, 0
+  index: -1
+UnitIcons/Norse Axeman
+  rotate: false
+  xy: 612, 1447
+  size: 597, 597
+  orig: 597, 597
+  offset: 0, 0
+  index: -1
+UnitIcons/Powder Filled Fire Ship
+  rotate: false
+  xy: 4, 1444
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+UnitIcons/Ranger
+  rotate: false
+  xy: 1760, 1839
+  size: 203, 205
+  orig: 203, 205
+  offset: 0, 0
+  index: -1
+UnitIcons/Scouting Boat
+  rotate: false
+  xy: 1044, 739
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Slave
+  rotate: false
+  xy: 1760, 1423
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Transport Carrack
+  rotate: false
+  xy: 1725, 1215
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Transport Galley
+  rotate: false
+  xy: 606, 523
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
