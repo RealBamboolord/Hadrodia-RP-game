@@ -134,6 +134,7 @@
 		"type": "TerrainFeature",
 		"movementCost": 3,
 		"RGB": [90, 50, 21],
+		"impassable": true,
 		"occursOn": ["Mountain"]
                 "uniques": [
             "Rough terrain",
