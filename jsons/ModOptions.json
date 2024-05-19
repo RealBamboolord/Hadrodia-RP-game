@@ -1,5 +1,1 @@
-{
-  "uniques":["Can trade civilization introductions for [100] Gold"],
-  "constants":{"maxXPfromBarbarians":60,
-  }
-}
+{"constants":{"maxXPfromBarbarians":60},"modUrl":"https://github.com/RealBamboolord/Hadrodia-RP-game","defaultBranch":"main","author":"RealBamboolord","lastUpdated":"2024-05-19T13:28:53Z","modSize":1186,"uniques":["Can trade civilization introductions for [100] Gold"]}
