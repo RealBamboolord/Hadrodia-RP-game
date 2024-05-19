@@ -2,6 +2,7 @@
 	"name": "Global uniques",
 	"uniques": [
 		"Comment [F]",
+		"[+1 Food] from every [{Land} {non-[Mountain]} {non-[Magma Ravine]} {non-[Dragon Peak]}] <in tiles adjacent to [Volcano]>"
 		
 	]
 }
