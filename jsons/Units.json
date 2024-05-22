@@ -246,7 +246,7 @@
 	{
 		"name": "Norse Axeman",
 		"unitType": "Sword",
-		"uniqueTo": "The Clan of Graðungrs",
+		"uniqueTo": "The Clan of Gradungrs",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 8,
