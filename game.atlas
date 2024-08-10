@@ -61,357 +61,399 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Crash Site
   rotate: false
-  xy: 1833, 987
+  xy: 1026, 509
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Darkian Fortress
   rotate: false
-  xy: 423, 9
+  xy: 606, 211
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Dockyard
   rotate: false
-  xy: 1217, 984
+  xy: 1217, 987
   size: 500, 500
   orig: 500, 500
   offset: 0, 0
   index: -1
+LeaderIcons/Li Wei
+  rotate: false
+  xy: 1212, 410
+  size: 474, 569
+  orig: 474, 569
+  offset: 0, 0
+  index: -1
 NationIcons/Autistica
   rotate: false
-  xy: 1725, 1095
+  xy: 1026, 725
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/China
   rotate: false
-  xy: 1833, 1095
+  xy: 1026, 617
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Darkian Empire
   rotate: false
-  xy: 1212, 570
+  xy: 612, 419
   size: 406, 406
   orig: 406, 406
   offset: 0, 0
   index: -1
 NationIcons/Mkali Tribe
   rotate: false
-  xy: 1626, 660
+  xy: 1022, 293
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Russian Republic
   rotate: false
-  xy: 1734, 771
+  xy: 1725, 1306
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Clan of Gradungrs
   rotate: false
-  xy: 1842, 879
+  xy: 1833, 1306
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Clan of Graðungrs
+  rotate: false
+  xy: 1833, 1306
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Gliding Tribe
   rotate: false
-  xy: 4, 819
+  xy: 4, 822
   size: 600, 600
   orig: 600, 600
   offset: 0, 0
   index: -1
 NationIcons/UCCM
   rotate: false
-  xy: 612, 830
+  xy: 612, 833
   size: 592, 592
   orig: 592, 592
   offset: 0, 0
   index: -1
 ReligionIcons/Oonotavism
   rotate: false
-  xy: 1968, 1418
+  xy: 1134, 634
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 ReligionIcons/Pachamama
   rotate: false
-  xy: 1734, 879
+  xy: 1022, 185
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Dragon Peak
   rotate: false
-  xy: 1842, 663
+  xy: 531, 48
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Geothermal Plains
   rotate: false
-  xy: 1698, 624
+  xy: 1833, 1125
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grand Mesa
+  rotate: false
+  xy: 1968, 1806
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grand MesaM
   rotate: false
-  xy: 1738, 627
+  xy: 1968, 1806
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Highlands
   rotate: false
-  xy: 1914, 725
+  xy: 1134, 588
   size: 32, 38
   orig: 32, 38
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Magma Ravine
   rotate: false
-  xy: 1778, 627
+  xy: 531, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mangrove Forest
   rotate: false
-  xy: 1818, 626
+  xy: 1968, 1769
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mesa Desert
   rotate: false
-  xy: 1933, 1375
+  xy: 1134, 552
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mesa DesertHill
   rotate: false
-  xy: 1933, 1339
+  xy: 1968, 1733
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mount Dragonjaw
   rotate: false
-  xy: 1933, 1295
+  xy: 1134, 508
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Ocean+Rocky Waters
+  rotate: false
+  xy: 1968, 1697
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Quicksand
   rotate: false
-  xy: 1933, 1259
+  xy: 1134, 472
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Quicksand2
   rotate: false
-  xy: 1933, 1223
+  xy: 1968, 1661
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Quicksand3
   rotate: false
-  xy: 1973, 1382
+  xy: 1134, 436
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Rocky Waters
+  rotate: false
+  xy: 1968, 1625
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Volcano
+  rotate: false
+  xy: 1968, 1587
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Dragon Peak
   rotate: false
-  xy: 1968, 1971
+  xy: 1968, 1974
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Highlands
   rotate: false
-  xy: 1626, 596
+  xy: 1134, 769
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Highlands2
   rotate: false
-  xy: 1842, 707
+  xy: 531, 156
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/HillM
   rotate: false
-  xy: 1968, 1894
+  xy: 1833, 1229
   size: 64, 69
   orig: 64, 69
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/HillM2
   rotate: false
-  xy: 1968, 1817
+  xy: 1725, 1013
   size: 64, 69
   orig: 64, 69
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mangrove Forest
   rotate: false
-  xy: 1968, 1749
+  xy: 1968, 1906
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mesa Desert
   rotate: false
-  xy: 1968, 1672
+  xy: 1134, 692
   size: 64, 69
   orig: 64, 69
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mount Dragonjaw
   rotate: false
-  xy: 1968, 1608
+  xy: 531, 92
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Rocky Waters
   rotate: false
-  xy: 1968, 1540
+  xy: 1833, 1161
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Volcano
   rotate: false
-  xy: 1968, 1476
+  xy: 1968, 1842
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/Archer Galley
   rotate: false
-  xy: 1760, 1827
+  xy: 1760, 1830
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Catapult Galleass
   rotate: false
-  xy: 1725, 987
+  xy: 423, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Catapult Galley
   rotate: false
-  xy: 215, 9
+  xy: 215, 12
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Cog
   rotate: false
-  xy: 1760, 1619
+  xy: 1760, 1622
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Transport Cog
   rotate: false
-  xy: 1760, 1619
+  xy: 1760, 1622
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Explorer
   rotate: false
-  xy: 1626, 876
+  xy: 423, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Fire Ship
   rotate: false
-  xy: 4, 217
+  xy: 4, 220
   size: 594, 594
   orig: 594, 594
   offset: 0, 0
   index: -1
 UnitIcons/Galley
   rotate: false
-  xy: 1626, 768
+  xy: 1026, 401
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Hellburner
   rotate: false
-  xy: 1217, 1492
+  xy: 1217, 1495
   size: 535, 535
   orig: 535, 535
   offset: 0, 0
   index: -1
 UnitIcons/Norse Axeman
   rotate: false
-  xy: 612, 1430
+  xy: 612, 1433
   size: 597, 597
   orig: 597, 597
   offset: 0, 0
   index: -1
 UnitIcons/Powder Filled Fire Ship
   rotate: false
-  xy: 4, 1427
+  xy: 4, 1430
   size: 600, 600
   orig: 600, 600
   offset: 0, 0
   index: -1
 UnitIcons/Ranger
   rotate: false
-  xy: 4, 4
+  xy: 4, 7
   size: 203, 205
   orig: 203, 205
   offset: 0, 0
   index: -1
 UnitIcons/Scouting Boat
   rotate: false
-  xy: 1734, 663
+  xy: 1725, 1198
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Slave
   rotate: false
-  xy: 1760, 1411
+  xy: 814, 211
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Transport Carrack
   rotate: false
-  xy: 1725, 1203
+  xy: 1760, 1414
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Transport Galley
   rotate: false
-  xy: 1842, 771
+  xy: 1725, 1090
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
