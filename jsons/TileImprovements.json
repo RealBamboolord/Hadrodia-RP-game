@@ -64,6 +64,7 @@
 		"techRequired": "Agriculture",
 		"uniques": ["Can also be built on tiles adjacent to fresh water","Cannot be built on [Highlands] tiles","Cannot be built on [Mesa Desert] tiles",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Food] <in tiles adjacent to [Volcano]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
             "Pillaging this improvement yields approximately [+18 Gold]"],
 		"shortcutKey": "F"
