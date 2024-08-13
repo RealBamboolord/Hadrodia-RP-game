@@ -1,4 +1,3 @@
-
 [
     {
         "name": "Ancestor Worship",
@@ -169,6 +168,21 @@
         "name": "Tears of the Gods",
         "type": "Pantheon",
         "uniques": ["[+2 Faith] from every [Gems]", "[+2 Faith] from every [Pearls]"]
+    },
+    {
+        "name": "Mesa Mysticism",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from every [Mesa Desert]"]
+    },
+    {
+        "name": "Summit Serenity",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture] from every [Highlands]"]
+    },
+    {
+        "name": "Sacrificial Fire",
+        "type": "Pantheon",
+        "uniques": ["[+2 Faith, +2 Culture] from every [Volcano]"]
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
