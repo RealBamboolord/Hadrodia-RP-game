@@ -249,22 +249,20 @@
 
 	},
 	{
-		"name": "Autistica",
-		"leaderName": "Admiral פולשים",
+		"name": "The Theocracy",
+		"leaderName": "Grand Elder Alien",
 		"adjective": ["Autistican"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
-
+		"declaringWar": "You have left me no choice",
+		"attacked": "I expected this.",
+		"defeated": "We will return.",
+		"introduction": "What are you?",
 		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
-
+		"hateHello": "What do you want?",
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
 		"outerColor": [16,16,16],
@@ -275,7 +273,6 @@
 		"cities": ["Custom City Name","Custom City Name2","Custom City Name3"],
         "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
 	},
-
 
 	// City-States sorted by cityStateType, name
 	{
