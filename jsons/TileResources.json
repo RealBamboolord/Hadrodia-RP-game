@@ -135,7 +135,7 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Mesa Desert"],
 		"food": 1,
-		"improvement": "Pasture, Camp",
+		"improvement": "Pasture",
 		"improvementStats": {"production": 1}
 	},
 
