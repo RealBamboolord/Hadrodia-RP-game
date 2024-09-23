@@ -8,6 +8,32 @@
 	},
 
 	{
+		"name": "Zanzibar",
+		"leaderName": "Lelias",
+		"adjective": ["Hive"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "After a long internal discussion we ultimataly decided that your culture, ideology and belief are not worth existing, as such we are going to conquer you. Plz do not oppose",
+		"attacked": "What made you think that you can match us? Was it the folly of a single man? Or perhaps it was a mass hysteria? Well, now it doesn't matter anymore: Prepare yourself, only those who are truly united can stand in this world.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Is there something WE can do for you?",
+		"hateHello": "Now what? Are you here to beg for OUR mercy?",
+
+		"tradeRequest": "We believe that this is a fair deal for both parts.",
+
+		"outerColor": [0, 152, 181],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "No Unique yet",
+		"uniques": ["Comment [to be continued]"],
+		"cities": ["Zanzibar"]
+	},
+	{
 		//nations default
 		"name": "UCCM", //short for Union of Collegiate Capitalist Monarchies
 		"leaderName": "Levi",
@@ -20,7 +46,7 @@
 		"declaringWar": "The demon wants the blood of soldiers!",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"introduction": "Hi?",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
@@ -47,7 +73,7 @@
 		"declaringWar": "The demon wants the blood of soldiers!",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"introduction": "Hi?",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
@@ -131,7 +157,7 @@
 		"introduction": "Hello. We do not want to touch you, so please do not touch us.",
 
 		"neutralHello": "defneuhello",
-		"hateHello": "defhatehelo",
+		"hateHello": "defhatehello",
 
 		"tradeRequest": "default trade request?",
 
@@ -176,7 +202,7 @@
 		"declaringWar": "The demon wants the blood of soldiers!",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"introduction": "Hi?",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
@@ -203,7 +229,7 @@
 		"declaringWar": "The demon wants the blood of soldiers!",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"introduction": "Hi?",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
@@ -220,7 +246,7 @@
 	},
 	{
 		"name": "China",
-		"leaderName": "Li Wei",
+		"leaderName": "Chi Fu Xan",
 		"adjective": ["Chinese"],
 		"preferredVictoryType": "Scientific",
 
@@ -230,7 +256,7 @@
         	"declaringWar": "You won't ever be able to bother me again. Go meet Yama.",
 		"attacked": "Fool! I will disembowel you all!",
 		"defeated": "You have proven to be a cunning and competent adversary. I congratulate you on your victory.",
-		"introduction": "Greetings, I am Empress Wu Zetian. China desires peace and development. You leave us alone, we'll leave you alone.",
+		"introduction": "Greetings, I am Emperor Chi-fu-Xan. China desires peace and development. You leave us alone, we'll leave you alone.",
 		"neutralHello": "How are you today?",
 		"hateHello": "Oh. It's you?",
 		"tradeRequest": "My friend, do you think you can accept this request?",
