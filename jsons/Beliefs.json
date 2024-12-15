@@ -12,12 +12,13 @@
     {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]"]
+        "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]", "[+2 Gold] from every [Geothermal Plains]"]
     },
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Desert]"]
+        "uniques": ["[+1 Faith] from every [Desert]", "[+1 Science] from every [Quicksand]"
+        ]
     },
     {
         "name": "Earth Mother",
@@ -183,6 +184,11 @@
         "name": "Sacrificial Fire",
         "type": "Pantheon",
         "uniques": ["[+2 Faith, +2 Culture] from every [Volcano]"]
+    },
+    {
+        "name": "The Way of the Roots",
+        "type": "Pantheon",
+        "uniques": ["[+1 Production] from every [Mangrove Forest]", "[+1 Happiness] from every [Swamp]"
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
