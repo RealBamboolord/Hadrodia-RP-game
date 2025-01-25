@@ -573,7 +573,7 @@
 		"innerColor": [255,97,255],
 		"cities": ["Tyre"]
 	},
-	{
+/*	{
 		"name": "Zanzibar",
 		"adjective": ["Zanzibar"],
 		"cityStateType": "Mercantile",
@@ -585,6 +585,7 @@
 		"innerColor": [255,153,255],
 		"cities": ["Zanzibar"]
 	},
+	*/
 
 	{
 		"name": "Almaty",
