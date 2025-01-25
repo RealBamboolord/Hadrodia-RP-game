@@ -7,7 +7,8 @@
 //		"innerColor": [255,255,255]
 	},
 
-	{
+	//Test
+/*	{ 
 		"name": "Zanzibar",
 		"leaderName": "Lelias",
 		"adjective": ["Hive"],
@@ -33,6 +34,7 @@
 		"uniques": ["Comment [to be continued]"],
 		"cities": ["Zanzibar"]
 	},
+	*/
 	{
 		//nations default
 		"name": "UCCM", //short for Union of Collegiate Capitalist Monarchies
@@ -573,7 +575,7 @@
 		"innerColor": [255,97,255],
 		"cities": ["Tyre"]
 	},
-/*	{
+	{
 		"name": "Zanzibar",
 		"adjective": ["Zanzibar"],
 		"cityStateType": "Mercantile",
@@ -585,7 +587,6 @@
 		"innerColor": [255,153,255],
 		"cities": ["Zanzibar"]
 	},
-	*/
 
 	{
 		"name": "Almaty",
