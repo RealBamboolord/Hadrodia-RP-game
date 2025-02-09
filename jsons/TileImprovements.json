@@ -4,11 +4,14 @@
 		"name": "UI 1", //Dark Land construction 1
 		"uniqueTo": "Darkian Empire",
 		"terrainsCanBeBuiltOn": ["Desert","Hill"],
+		"turnsToBuild": 7,
 		"uniques": ["Will not be displayed in Civilopedia", "Turn this tile into a [UT 1] tile"]
 	},
 	{
 		"name": "UI 2", //Dark Land construction 2
+		"uniqueTo": "Darkian Empire",
 		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
 		"uniques": ["Will not be displayed in Civilopedia", "Only available <in tiles adjacent to [Mountain] tiles>", "Turn this tile into a [UT 1] tile"]
 	},
 	{
