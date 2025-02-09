@@ -226,7 +226,6 @@
 		"uniques": ["Turn this tile into a [Coast] tile","Turn this tile into a [Shallow Waters] tile","Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X"
 	},
-Turn this tile into a [terrainName] tile
 	// These are unique and have unique in-game checks related to them
 	{
 		"name": "Remove Road",
