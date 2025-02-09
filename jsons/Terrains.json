@@ -100,6 +100,123 @@
             "Every [25] tiles with this terrain will receive a major deposit of a strategic resource.",
          	]
 	},
+	{
+		"name": "UT 1",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
+	{
+		"name": "UT 2",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
+	{
+		"name": "UT 3",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
+	{
+		"name": "UT 4",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
+	{
+		"name": "UT 5",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
+	{
+		"name": "UT 6",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
+	{
+		"name": "UT 7",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
+	{
+		"name": "UT 8",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
+	{
+		"name": "UT 1",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
+	{
+		"name": "UT 9",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
+	{
+		"name": "UT 10",
+		"type": "Water",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
+	{
+		"name": "UT 11",
+		"type": "Water",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
+	{
+		"name": "UT 12",
+		"type": "Water",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},
 
 	//Features
 	{
@@ -199,5 +316,94 @@
 					"Considered [Desirable] when determining start locations",
 					"Considered [Production] when determining start locations",
 					"Every [22] tiles with this terrain will receive a major deposit of a strategic resource."]
+	},
+	{
+		"name": "UTF 1",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},	{
+		"name": "UTF 2",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},	{
+		"name": "UTF 3",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},	{
+		"name": "UTF 4",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},	{
+		"name": "UTF 5",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},	{
+		"name": "UTF 6",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},	{
+		"name": "UTF 7",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},	{
+		"name": "UTF 8",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},	{
+		"name": "UTF 9",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},	{
+		"name": "UTF 10",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
+	},	{
+		"name": "UTF 11",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"RGB": [10, 10, 10],
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+         	]
 	},
 ]
