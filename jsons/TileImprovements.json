@@ -1,14 +1,15 @@
 [
 	// Unique Choices
 	{
-		"name": "UI 1",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+		"name": "UI 1", //Dark Land construction 1
+		"uniqueTo": "Darkian Empire",
+		"terrainsCanBeBuiltOn": ["Desert","Hill"],
+		"uniques": ["Will not be displayed in Civilopedia", "Turn this tile into a [UT 1] tile"]
 	},
 	{
-		"name": "UI 2",
+		"name": "UI 2", //Dark Land construction 2
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+		"uniques": ["Will not be displayed in Civilopedia", "Only available <in tiles adjacent to [Mountain] tiles>", "Turn this tile into a [UT 1] tile"]
 	},
 	{
 		"name": "UI 3",
@@ -192,7 +193,7 @@
 		"techRequired": "Mining",
 		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X",
-        "civilopediaText": [{"text":"Provides a one-time Production bonus depending on distance to the closest city once finished"}]
+        "civilopediaText": [{"text":"Provides aTurn this tile into a [terrainName] tile one-time Production bonus depending on distance to the closest city once finished"}]
 	},
 	{
 		"name": "Remove Jungle",
@@ -222,7 +223,7 @@
 		"uniques": ["Turn this tile into a [Coast] tile","Turn this tile into a [Shallow Waters] tile","Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X"
 	},
-
+Turn this tile into a [terrainName] tile
 	// These are unique and have unique in-game checks related to them
 	{
 		"name": "Remove Road",
