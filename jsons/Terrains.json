@@ -101,12 +101,15 @@
          	]
 	},
 	{
-		"name": "UT 1",
+		"name": "UT 1", //Dark Land, unique to Darkian Empire
 		"type": "Land",
+		"production": 1,
 		"movementCost": 1,
 		"RGB": [10, 10, 10],
 		"uniques": [
 			"Will not be displayed in Civilopedia",
+			"[+1 Food] <in tiles adjacent to [City center] tiles> <for [Darkian Empire] Civilizations>",
+			"[+1 Culture] <for [Darkian Empire] Civilizations>",
          	]
 	},
 	{
@@ -165,15 +168,6 @@
 	},
 	{
 		"name": "UT 8",
-		"type": "Land",
-		"movementCost": 1,
-		"RGB": [10, 10, 10],
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-         	]
-	},
-	{
-		"name": "UT 1",
 		"type": "Land",
 		"movementCost": 1,
 		"RGB": [10, 10, 10],
@@ -304,7 +298,7 @@
 		"overrideStats": true,
 		"defenceBonus": 0.25,
 		"RGB": [105,125,72],
-		"occursOn": ["Tundra","Plains","Grassland","Desert","Snow","Mesa Desert","Highlands"],
+		"occursOn": ["Tundra","Plains","Grassland","Desert","Snow","Mesa Desert","Highlands","UT 1"],
 		"uniques": ["Rough terrain",
 					"[+5] Strength for cities built on this terrain",
 					"Has an elevation of [1] for visibility calculations",
