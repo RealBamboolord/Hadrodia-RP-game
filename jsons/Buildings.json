@@ -66,12 +66,14 @@
 	
 	//Unique choices
 	{
-		"name": "UB 1", //rename to: 
-		"cost": 0,
-		"uniqueTo": "Spectator",
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+		"name": "UB 1", //Monument for Chi Fu Xan
+		"uniqueTo": "China",
+		"replaces": "Monument",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured","[+1 Production] from [{non-[Hill]} {City center}] tiles [in this city]"]
 	},
 	{
 		"name": "UB 2", //rename to: 
