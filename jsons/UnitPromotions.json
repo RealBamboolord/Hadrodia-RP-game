@@ -61,6 +61,10 @@
        		"uniques": ["Comment [Shh]"]
 	},
 	{
+		"name": "Can pass through impassable tiles",
+		"uniques": ["Will not be displayed in Civilopedia","Can pass through impassable tiles"]
+	},
+	{
 		"name": "Knightly Order",
 		"uniques": ["Religious Unit", "Can Spread Religion <for [2] movement> <once>"]
 	},
