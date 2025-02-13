@@ -21,7 +21,7 @@
 		"turnsToBuild": 7,
 		"production": 3,
 		"science": 1,
-		"uniques": ["Will not be displayed in Civilopedia",] //Todo: passable, Resources
+		"uniques": ["Will not be displayed in Civilopedia","Turn this tile into a [UTF 1] tile"] //Todo: Resources
 	},
 	{
 		"name": "UI 4",
