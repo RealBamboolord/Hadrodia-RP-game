@@ -312,12 +312,14 @@
 					"Every [22] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
-		"name": "UTF 1",
+		"name": "UTF 1",  //Used by Deep Mine for being passable
 		"type": "TerrainFeature",
-		"movementCost": 1,
-		"RGB": [10, 10, 10],
+		"occursOn": ["Mountain"],
+		"movementCost": 2,
+		"impassable": true,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
+            		"Rough terrain",
          	]
 	},	{
 		"name": "UTF 2",
