@@ -189,6 +189,9 @@
 			"Production to [Science] conversion in cities changed by [+10]% <after discovering [Nanotechnology]>", 
 			"Enables conversion of city production to [Science]",
 			"[+100]% unhappiness from the number of cities", 
+
+			"Land units may cross [UTF 1] tiles after the first [Great Person] is earned <hidden from users>",
+			"[Worker] units gain the [Can pass through impassable tiles] promotion <hidden from users>"
    		 ], 
     		"cities": ["Moscow", "Leningrad", "Novgorod", "Stalingrad", "Other russian cities"]
 	},
