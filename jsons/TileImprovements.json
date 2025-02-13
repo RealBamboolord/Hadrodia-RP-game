@@ -15,9 +15,13 @@
 		"uniques": ["Will not be displayed in Civilopedia", "Only available <in tiles adjacent to [Mountain] tiles>", "Turn this tile into a [UT 1] tile"]
 	},
 	{
-		"name": "UI 3",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+		"name": "UI 3", //Deep Mine
+		"uniqueTo": "Russian Republic",
+		"terrainsCanBeBuiltOn": ["Mountain"],
+		"turnsToBuild": 7,
+		"production": 3,
+		"science": 1,
+		"uniques": ["Will not be displayed in Civilopedia",] //Todo: passable, Resources
 	},
 	{
 		"name": "UI 4",
