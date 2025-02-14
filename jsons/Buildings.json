@@ -63,6 +63,15 @@
 		"requiredTech": "Pottery",
 		"uniques": ["Hidden when religion is disabled"]
 	},
+	{
+		"name": "Water Mill",
+		"maintenance": 2,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Comment [Must be on River]", "Unavailable <in tiles without [River]> <in tiles not adjacent to [UTF 2] tiles> <in tiles without [UTF 2]> <hidden from users>"],
+		"requiredTech": "The Wheel"
+	},
 	
 	//Unique choices
 	{
