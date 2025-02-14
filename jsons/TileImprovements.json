@@ -42,9 +42,10 @@
 		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Uranium]","Turn this tile into a [UTF 1] tile"]
 	},
 	{
-		"name": "UI 6",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+		"name": "UI 6", //Dig Stream of Life
+		"terrainsCanBeBuiltOn": ["Mesa Desert"],
+		"turnsToBuild": 8,
+		"uniques": ["Will not be displayed in Civilopedia","Turn this tile into a [UTF 2] tile","Only available <with [1] to [2] neighboring [Fresh Water Source] tiles>", "Unavailable <in [River] tiles>"]
 	},
 	{
 		"name": "UI 7",
