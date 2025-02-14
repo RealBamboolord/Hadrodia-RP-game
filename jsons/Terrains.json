@@ -1,5 +1,23 @@
 [
 	{
+		"name": "Lakes",
+		"type": "Water",
+		"food": 2,
+		"gold": 1,
+		"RGB": [0, 171, 169],
+		"uniques": ["Fresh water", "Fresh Water Source",
+					"Considered [Food] when determining start locations",
+					"Considered [Desirable] when determining start locations"],
+        "civilopediaText": [
+            {"text": "Lakes provide fresh water to adjacent tiles, allowing farming where it would otherwise not be possible (similar to Rivers and Oases)."},
+            {"text": "Rivers", "link":"Terrain/River"},
+            {"text": "Oasis", "link":"Terrain/Oasis"},
+            {"text": "Farm", "link":"Improvement/Farm"},
+            {"text": "Civil Service", "link":"Technology/Civil Service"},
+            {"text": "Fertilizer", "link":"Technology/Fertilizer"}
+        ]
+	},
+	{
 		"name": "Snow",
 		"type": "Land",
 		"movementCost": 1,
@@ -214,6 +232,29 @@
 
 	//Features
 	{
+		"name": "Oasis",
+		"type": "TerrainFeature",
+		"food": 3,
+		"gold": 1,
+		"movementCost": 1,
+		"unbuildable": true,
+		"defenceBonus": -0.1,
+		"occursOn": ["Desert"],
+		"uniques": ["Fresh water", "Rare feature", "Fresh Water Source",
+					"Only [All Road] improvements may be built on this tile",
+					"Always Fertility [4] for Map Generation",
+					"Considered [Food] when determining start locations",
+					"Considered [Desirable] when determining start locations"],
+        "civilopediaText": [
+            {"text": "Oases provide fresh water to adjacent tiles, allowing farming where it would otherwise not be possible (similar to Rivers and Lakes)."},
+            {"text": "Rivers", "link":"Terrain/River"},
+            {"text": "Lakes", "link":"Terrain/Lakes"},
+            {"text": "Farm", "link":"Improvement/Farm"},
+            {"text": "Civil Service", "link":"Technology/Civil Service"},
+            {"text": "Fertilizer", "link":"Technology/Fertilizer"}
+        ]
+	},
+	{
 		"name": "Shallow Waters",
 		"type": "TerrainFeature",
 		"movementCost": 3,
@@ -322,12 +363,15 @@
             		"Rough terrain",
          	]
 	},	{
-		"name": "UTF 2",
+		"name": "UTF 2", //Stream of Life
 		"type": "TerrainFeature",
-		"movementCost": 1,
-		"RGB": [10, 10, 10],
+		"occursOn": ["Mesa Desert"],
+		"movementCost": 2,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
+			"Fresh water", "Fresh Water Source",
+			"Tile provides yield without assigned population",
+			
          	]
 	},	{
 		"name": "UTF 3",
