@@ -193,7 +193,7 @@
 			"[+100]% unhappiness from the number of cities", 
 			
 			"Land units may cross [UTF 1] tiles after the first [Great Person] is earned <hidden from users>",
-			"[Worker] units gain the [Can pass through impassable tiles] promotion <hidden from users>"
+			"[Worker] units gain the [Can pass through impassable tiles] promotion <upon turn end> <hidden from users>"
    		 ], 
     		"cities": ["Moscow", "Leningrad", "Novgorod", "Stalingrad", "Other russian cities"]
 	},
