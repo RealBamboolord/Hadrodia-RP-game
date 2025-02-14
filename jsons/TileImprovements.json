@@ -15,23 +15,31 @@
 		"uniques": ["Will not be displayed in Civilopedia", "Only available <in tiles adjacent to [Mountain] tiles>", "Turn this tile into a [UT 1] tile"]
 	},
 	{
-		"name": "UI 3", //Deep Mine
+		"name": "UI 3", //Deep Mine Iron
 		"uniqueTo": "Russian Republic",
 		"terrainsCanBeBuiltOn": ["Mountain"],
 		"turnsToBuild": 7,
 		"production": 3,
 		"science": 1,
-		"uniques": ["Will not be displayed in Civilopedia","Turn this tile into a [UTF 1] tile"] //Todo: Resources
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Iron]","Turn this tile into a [UTF 1] tile"]
 	},
 	{
-		"name": "UI 4",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+		"name": "UI 4", //Deep Mine Aluminum
+		"uniqueTo": "Russian Republic",
+		"terrainsCanBeBuiltOn": ["Mountain"],
+		"turnsToBuild": 7,
+		"production": 3,
+		"science": 1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Aluminum]","Turn this tile into a [UTF 1] tile"]
 	},
 	{
-		"name": "UI 5",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+		"name": "UI 5", //Deep Mine Uranium
+		"uniqueTo": "Russian Republic",
+		"terrainsCanBeBuiltOn": ["Mountain"],
+		"turnsToBuild": 7,
+		"production": 3,
+		"science": 1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Uranium]","Turn this tile into a [UTF 1] tile"]
 	},
 	{
 		"name": "UI 6",
