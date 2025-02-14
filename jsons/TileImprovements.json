@@ -44,6 +44,7 @@
 	{
 		"name": "UI 6", //Dig Stream of Life
 		"terrainsCanBeBuiltOn": ["Mesa Desert"],
+		"uniqueTo": "Autistica",
 		"turnsToBuild": 8,
 		"uniques": ["Will not be displayed in Civilopedia","Turn this tile into a [UTF 2] tile","Only available <with [1] to [2] neighboring [Fresh Water Source] tiles>", "Unavailable <in [River] tiles>"]
 	},
