@@ -71,7 +71,7 @@
 		"name": "Aviary",
 		"turnsToBuild": 5,
 		"techRequired": "Trapping",
-		"uniques": ["Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"]
 	}
 	{
 		"name": "Farm",
@@ -92,7 +92,7 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Construction",
-		"uniques": ["[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "L"
 	},
 	{
@@ -101,16 +101,16 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
-		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "M"
 	},
 	{
 		"name": "Trading post",
-		"terrainsCanBeBuiltOn": ["Mesa Desert","Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","UT 1","Highlands"],
+		"terrainsCanBeBuiltOn": ["Cannot be built on [UTF2] tiles <hidden from users>","Mesa Desert","Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","UT 1","Highlands"],
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Guilds",
-		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "T"
 	},
 
@@ -119,14 +119,14 @@
 		"name": "Camp",
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
-		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Mangrove Forest]","Does not need removal of [Jungle]","[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","Does not need removal of [Forest]","Does not need removal of [Mangrove Forest]","Does not need removal of [Jungle]","[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "C"
 	},
 	{
 		"name": "Oil well",
 		"turnsToBuild": 9,
 		"techRequired": "Biology",
-		"uniques": ["Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "W"
 	},
 	{
@@ -139,7 +139,7 @@
 		"name": "Pasture",
 		"turnsToBuild": 8,
 		"techRequired": "Animal Husbandry",
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Does not need removal of [Mangrove Forest]","Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","[+1 Food] <after discovering [Fertilizer]>", "Does not need removal of [Mangrove Forest]","Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
 	{
@@ -147,14 +147,14 @@
 		"turnsToBuild": 6,
 		"gold": 1,
 		"techRequired": "Calendar",
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
 	{
 		"name": "Quarry",
 		"turnsToBuild": 8,
 		"techRequired": "Masonry",
-		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","[+1 Production] <after discovering [Chemistry]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "Q"
 	},
 	{
@@ -172,7 +172,7 @@
 		"terrainsCanBeBuiltOn": ["Mesa Desert","Highlands","Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle","UT 1"],
 		"turnsToBuild": 6,
 		"techRequired": "Engineering",
-		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [50]%"],
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","Can be built outside your borders", "Gives a defensive bonus of [50]%"],
 		"shortcutKey": "O"
 	},
 
@@ -271,25 +271,25 @@
 		"name": "Academy",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 8,
-		"uniques": ["Great Improvement", "[+2 Science] <after discovering [Scientific Theory]>", "[+2 Science] <after discovering [Atomic Theory]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","Great Improvement", "[+2 Science] <after discovering [Scientific Theory]>", "[+2 Science] <after discovering [Atomic Theory]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Landmark",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 6,
-		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Manufactory",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 4,
-		"uniques": ["Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Customs house",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 4,
-		"uniques": ["Great Improvement", "[+1 Gold] <after discovering [Economics]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","Great Improvement", "[+1 Gold] <after discovering [Economics]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Holy site",
@@ -301,11 +301,12 @@
 		"name": "Citadel",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
+			"Cannot be built on [UTF2] tiles <hidden from users>",
 			"Great Improvement",
 			"Gives a defensive bonus of [100]%",
 			"Adjacent enemy units ending their turn take [30] damage",
 			"Can be built just outside your borders",
-        	"Constructing it will take over the tiles around it and assign them to your closest city",
+        		"Constructing it will take over the tiles around it and assign them to your closest city",
 			"Removes removable features when built",
 		]
 	},
@@ -317,7 +318,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 1,
 		"turnsToBuild": 4,
-		"uniques": ["Can only be built on [Coastal] tiles", "[+1 Culture] for each adjacent [Moai]", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Cannot be built on [UTF2] tiles <hidden from users>","Can only be built on [Coastal] tiles", "[+1 Culture] for each adjacent [Moai]", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"techRequired": "Construction",
 		"shortcutKey": "M"
 	},
