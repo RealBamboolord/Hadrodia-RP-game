@@ -1,6 +1,13 @@
 [
 	//Recon
-  {
+	{
+		"name": "Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles","Can build [UI 6] improvements at a [-100]% rate", "Automation is a primary action"],
+		"cost": 70
+	},
+  	{
 		"name": "Scout",
 		"unitType": "Scout",
 		"movement": 2,
@@ -317,15 +324,12 @@
 	
 	//Unique choices
 	{
-		"name": "UU 1",
-		"unitType": "Scout",
+		"name": "UU 1", //Holy Digger
+		"unitType": "Civilian",
+		"uniqueTo": "Autistica",
 		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"cost": 30,
+		"uniques": ["Will not be displayed in Civilopedia","Can build [UI 6] improvements on tiles","Limited to [1] per Civilization"],
 	},
 	{
 		"name": "UU 2",
