@@ -85,7 +85,7 @@
 		"uniques": ["Destroyed when the city is captured","[+1 Production] from [{non-[Hill]} {City center}] tiles [in this city]"]
 	},
 	{
-		"name": "UB 2", //rename to: Gate to the Ocean <hidden from users>
+		"name": "UB 2", //rename to: Gate to the Ocean
 		"cost": 0,
 		"uniqueTo": "Venoa",
 		"uniques": [
@@ -96,12 +96,19 @@
 		]
 	},
 	{
-		"name": "UB 3", //rename to: 
+		"name": "UB 3", //rename to: Odin's Wisdom
 		"cost": 0,
-		"uniqueTo": "Spectator",
+		"uniqueTo": "The Clan of Gradungrs",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Only available <in [Capital] cities>",
+			"[+1 Science] from every [Luxury resource]",
+			"Adopt [Honor]",
+			"[Great General] is earned [+15]% faster",
+			"[Great Artist] is earned [+15]% faster",
+			"[Great Scientist] is earned [+15]% faster"
+
+		]
 	},
 	{
 		"name": "UB 4", //rename to: 
