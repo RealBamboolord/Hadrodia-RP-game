@@ -23,7 +23,7 @@
 		"hurryCostModifier": 25,
 		"production": 1,
 		"uniques": ["Must be next to [Coast]", "[Gold] cost of purchasing [All] buildings [-15]% <in this city>", "[Gold] cost of purchasing [All] units [-15]% <in this city>", "[+1 Food] from [Ocean] tiles [in this city]",
-			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]", "Connects trade routes over water",],
+			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]", "Connects trade routes over water"],
 		"requiredTech": "Optics"
 	},
 	{
