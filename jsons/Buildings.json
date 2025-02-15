@@ -85,12 +85,15 @@
 		"uniques": ["Destroyed when the city is captured","[+1 Production] from [{non-[Hill]} {City center}] tiles [in this city]"]
 	},
 	{
-		"name": "UB 2", //rename to: 
+		"name": "UB 2", //rename to: Gate to the Ocean <hidden from users>
 		"cost": 0,
-		"uniqueTo": "Spectator",
+		"uniqueTo": "Venoa",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Discover [Optics]",
+			"Gain a free [Great Dockyard] [in capital]",
+			"Only available <in [Capital] cities>",
+		]
 	},
 	{
 		"name": "UB 3", //rename to: 
