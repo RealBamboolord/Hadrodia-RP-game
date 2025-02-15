@@ -6,9 +6,9 @@
 		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
   	},
   	{
-		"name": "UR 1",
+		"name": "UR 1", //War Draft Animals
 		"resourceType": "Strategic",
-		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+		"uniques": ["Not shown on world screen","Cannot be traded","Excluded from map editor","Will not be displayed in Civilopedia"]
   	},
   	{
 		"name": "UR 2",
