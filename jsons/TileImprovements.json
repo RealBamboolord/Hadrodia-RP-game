@@ -49,9 +49,14 @@
 		"uniques": ["Will not be displayed in Civilopedia","Turn this tile into a [UTF 2] tile","Only available <with [1] to [2] neighboring [Fresh Water Source] tiles>", "Unavailable <in [River] tiles>"]
 	},
 	{
-		"name": "UI 7",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+		"name": "UI 7", //Highland Settlement
+		"terrainsCanBeBuiltOn": ["Highlands"],
+		"turnsToBuild": 7,
+		"uniqueTo": "The Gliding Tribe",
+		"techRequired": "Calendar",
+		"food": 1,
+		"science": 1,
+		"uniques": ["Will not be displayed in Civilopedia", "[+1 Culture] for each adjacent [Bonus resource]","Only available <with [0] to [0] neighboring [UI 7] tiles>"]
 	},
 	{
 		"name": "UI 8",
