@@ -111,13 +111,26 @@
 		]
 	},
 	{
-		"name": "UB 4", //rename to: 
-		"cost": 0,
-		"uniqueTo": "Spectator",
+		"name": "UB 4", //rename to: War Steed Rearing
+		"replaces": "Stable",
+		"cost": 75,
+		"uniqueTo": "Mkale Tribe",
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Horses","Bulls","Cattle"],
+		"hurryCostModifier": 25,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+15]% Production when constructing [Chariot Archer] units [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Bulls] tiles [in this city]",
+			"Provides [1] [Horses]",
+			"Provides [1] [UR 1]",
+			],
+		"requiredTech": "The Wheel"
 	},
+
 	{
 		"name": "UB 5", //rename to: 
 		"cost": 0,
