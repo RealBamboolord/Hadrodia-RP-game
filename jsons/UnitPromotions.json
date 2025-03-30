@@ -104,7 +104,7 @@
 	},
 	{
 		"name": "King's Patronage",
-		"uniques": ["[+1] Sight"]
+		"uniques": ["[+1] Sight","Can see over obstacles"]
 	},
 	{
 		"name": "Berserk",
