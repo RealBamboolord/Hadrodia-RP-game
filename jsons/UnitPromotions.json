@@ -126,7 +126,7 @@
 		"name": "Quicksand Counter II",
 		"uniques": [
 			"Comment [This unit will die instantly if it ends two more consecutive turns in quicksand]",
-			"This Unit gains the [Quicksand Counter I] promotion <upon ending a turn in a [Quicksand] tile> <for units without [Desert Affinity> <hidden from users>", 
+			"This Unit gains the [Quicksand Counter I] promotion <upon ending a turn in a [Quicksand] tile> <for units without [Desert Affinity]> <hidden from users>", 
 			"This Unit loses the [Quicksand Counter II] promotion <upon ending a turn in a [non-[Quicksand]] tile> <hidden from users>",
 		]
 	}
