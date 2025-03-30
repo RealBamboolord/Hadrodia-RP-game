@@ -169,13 +169,14 @@
 		"uniqueName": "Science Rush",
 		"uniques": [
    		 	"[-50]% Production when constructing [Military] units [in all cities]",
+   		 	"[+25]% Production when constructing [Worker] units [in Capital]",
 			"[-50]% Production when constructing [All] wonders [in all cities]",
   		 	"[Gold] cost of purchasing [Military] units [+100]%",
    			"[Faith] cost of purchasing [Military] units [+100]%",
 			"[+3 Science] [in Capital] <before the [Industrial era]>",
 			"[+2 Science] [in Capital] <before the [Medieval era]>",
 			"[+50]% [Science] <before the [Industrial era]>",
-			"[+20]% [Science] <starting from the [Industrial era]>",
+			"[+25]% [Science] <starting from the [Industrial era]>",
 			"[-10]% [Gold] <before the [Industrial era]>",
 			"[-25]% [Gold] <starting from the [Industrial era]>",
 			"[-15]% [Culture]",
@@ -190,7 +191,7 @@
 			"Production to [Science] conversion in cities changed by [+25]% <during the [Industrial era]>", 
 			"Production to [Science] conversion in cities changed by [+10]% <starting from the [Modern era]>", 
 			"Enables conversion of city production to [Science]", 
-			"[+100]% unhappiness from the number of cities", 
+			"[+66]% unhappiness from the number of cities", 
 			
 			"Land units may cross [UTF 1] tiles after the first [Great Person] is earned <hidden from users>",
 			"[Worker] units gain the [Can pass through impassable tiles] promotion <upon turn end> <hidden from users>"
