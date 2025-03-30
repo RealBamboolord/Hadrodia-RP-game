@@ -37,9 +37,9 @@
 	*/
 	{
 		//nations default
-		"name": "UCCM", //short for Union of Collegiate Capitalist Monarchies
-		"leaderName": "Levi",
-		"adjective": ["Unionists"],
+		"name": "UCCM", //short for Union of Collegiate Capitalist Monarchies, rename to: The Hive
+		"leaderName": "Lelias",
+		"adjective": ["Hive"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
