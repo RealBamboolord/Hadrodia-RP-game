@@ -132,12 +132,17 @@
 	},
 
 	{
-		"name": "UB 5", //rename to: 
-		"cost": 0,
-		"uniqueTo": "Spectator",
+		"name": "UB 5", //rename to: Hive's Hotspots
+		"cost": 1,
+		"uniqueTo": "UCCM",
+		"specialistSlots": {"Hive Thinker": 1},
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"Never destroyed when the city is captured",
+			"[+1 Faith] per [5] population [in this city]",
+			"Automatically built in all cities where it is buildable",
+			"Only available <in cities with a [Shrine]>"
+		]
 	},
 	{
 		"name": "UB 6", //rename to: 
