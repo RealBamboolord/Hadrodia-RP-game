@@ -85,7 +85,7 @@
 		"food": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",
-		"uniques": ["Can also be built on tiles adjacent to fresh water","Cannot be built on [Highlands] tiles","Cannot be built on [Mesa Desert] tiles",
+		"uniques": ["Can also be built on tiles adjacent to fresh water","Cannot be built on [Highlands] tiles","Cannot be built on [{Mesa Desert} {non-[UTF 2]}] tiles",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] <in tiles adjacent to [Volcano]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
